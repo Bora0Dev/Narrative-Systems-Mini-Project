@@ -30,4 +30,4 @@ The game’s text prompts needed to guide the player naturally through explorati
 Overall, the final structure reflects an effective balance between clarity, interactivity, and maintainable code architecture.
 
 ## Gameplay
-[![Watch the video](https://img.youtube.com/vi/nDGsJavuAdE/0.jpg)](https://youtu.be/nDGsJavuAdE)
+[![Watch the video][(https://img.youtube.com/vi/nDGsJavuAdE/0.jpg)](https://youtu.be/nDGsJavuAdE)](https://youtu.be/TEk6C4YmE5g)
